@@ -1,0 +1,9 @@
+h1{
+    background-color:unset;
+    color:aliceblue;
+    font-size: larger;
+    text-align: center;
+}
+body{
+    background-color: rgb(4, 31, 100);
+}
